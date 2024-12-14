@@ -17,7 +17,7 @@ CoreDNS plugins need to be compiled into CoreDNS, you can follow the [build](bui
 
 ## 2 - Setup network
 1. From the Omada controller go to Settings -> Wired Networks -> LAN and choose your network(s):
-2. `Domain Name` must be set (e.g `omada.home`)
+2. `Domain Name` must be set (e.g `omada.internal`)
 3. `DNS Server` set to `Manual` and enter the IP address of your CoreDNS application.
 
 <img src="omada-network-setup.png"  width="75%">
